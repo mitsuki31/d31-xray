@@ -1,0 +1,122 @@
+{
+    "stone":
+    {
+        "textures": "stone",
+        "sound": "stone",
+        "blockshape": "invisible"
+    },
+    
+    "sandstone":
+    {
+        "isotropic":
+        {
+            "up": true,
+            "down": true
+        },
+        
+        "textures":
+        {
+            "up": "sandstone_top",
+            "down": "sandstone_bottom",
+            "side": "sandstone_side"
+        },
+        
+        "brightness_gamma": 0.70,
+        "sound": "stone",
+        "blockshape": "invisible"
+    },
+    
+    "obsidian":
+    {
+        "isotropic": true,
+        "textures": "obsidian",
+        "brightness_gamma": 2.00,
+        "sound": "stone",
+        "blockshape": "invisible"
+    },
+    
+    "dirt":
+    {
+        "isotropic": true,
+        "textures": "dirt",
+        "sound": "gravel",
+        "blockshape": "invisible"
+    },
+    
+    "gravel":
+    {
+        "textures": "gravel",
+        "sound": "gravel",
+        "blockshape": "invisible"
+    },
+    
+    "granite":
+    {
+        "textures": "stone_granite",
+        "sound": "stone",
+        "blockshape": "invisible"
+    },
+    
+    "andesite":
+    {
+        "textures": "stone_andesite",
+        "sound": "stone",
+        "blockshape": "invisible"
+    },
+    
+    "diorite":
+    {
+        "textures": "stone_diorite",
+        "sound": "stone",
+        "blockshape": "invisible"
+    },
+    
+    "netherrack":
+    {
+        "isotropic": true,
+        "textures": "netherrack",
+        "sound": "stone",
+        "blockshape": "invisible"
+    },
+    
+    "soul_soil":
+    {
+        "textures": "soul_soil",
+        "sound": "sand",
+        "blockshape": "invisible"
+    },
+    
+    "soul_sand":
+    {
+        "textures": "soul_sand",
+        "sound": "sand",
+        "blockshape": "invisible"
+    },
+    
+    "deepslate":
+    {
+        "isotropic":
+        {
+            "up": true,
+            "down": true
+        },
+        
+        "textures":
+        {
+            "up": "deepslate_top",
+            "down": "deepslate_top",
+            "side": "deepslate"
+        },
+        
+        "brightness_gamma": 1.85,
+        "sound": "deepslate",
+        "blockshape": "invisible"
+    },
+    
+    "tuff":
+    {
+        "textures": "tuff",
+        "sound": "tuff",
+        "blockshape": "invisible"
+    }
+}
